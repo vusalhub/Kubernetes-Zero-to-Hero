@@ -1,4 +1,8 @@
 # Kubernetes-Zero-to-Hero
+https://github.com/kubernetes/minikube/issues/3900
+problem olsa
+minikube start --no-vtx-check
+
 Creating this repo with an intent to make Kubernetes easy for begineers. This is a work-in-progress repo.
 
 ## Kubernetes Installation Using KOPS on EC2
